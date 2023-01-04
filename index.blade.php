@@ -5,6 +5,6 @@ echo "git session"
 ?>
 <?php
 echo "hello world";
-echo "git session"
+echo "git session";
 
 ?>
